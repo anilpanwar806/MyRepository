@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:orientation="vertical"
+    tools:context="com.kidzlearning.e_kids.identifyCatFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_marginTop="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="50dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/colours"
+            android:background="@drawable/color_icon"/>
+
+        <TextView
+            android:id="@+id/col"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="@string/colours"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="50dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/shapes"
+            android:background="@drawable/shapes_icon"/>
+
+        <TextView
+            android:id="@+id/sha"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="@string/shapes"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="50dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/fruits"
+            android:background="@drawable/fruits_icon"/>
+
+        <TextView
+            android:id="@+id/fru"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="@string/fruits"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    </LinearLayout>
+
+</LinearLayout>

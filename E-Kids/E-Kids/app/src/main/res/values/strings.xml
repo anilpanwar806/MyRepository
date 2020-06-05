@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E-Kids</string>
+    <string name="learn">Learn</string>
+    <string name="identify">Identify</string>
+    <string name="play">Play</string>
+    <string name="alphabets">Alphabets</string>
+    <string name="numbers">Numbers</string>
+    <string name="colours">Colours</string>
+    <string name="shapes">Shapes</string>
+    <string name="fruits">Fruits</string>
+    <string name="q1">Tap On Square</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

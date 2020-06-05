@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\six.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\click.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\v.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_main.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\play_main.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apple.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\question.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\question.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\u.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\u.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\identify_main.jpg",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\identify_main.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\k.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\k.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\h.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\h.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\t.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_icon.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\color_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\blue.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clickme.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\clickme.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prev.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\w.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\black.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\orange.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fruits_icon.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\fruits_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\identify_icon.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\identify_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\numbers_icon.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\numbers_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\y.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\y.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orangefr.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\orangefr.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shapes_icon.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\shapes_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\p.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\p.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mango.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\mango.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kidz.jpg",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\kidz.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\j.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\j.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\m.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\g.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\learn_main.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\learn_main.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eight.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seven.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\seven.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ten.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\ten.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\learn_icon.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\learn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banana.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\banana.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\triangle.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\o.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\n.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\n.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\q.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\q.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\five.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alphabets_icon.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\alphabets_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nine.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\nine.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\z.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\rect.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\x.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\f.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hexagon.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\hexagon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\l.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundcorner.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\roundcorner.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\square.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\oval.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grapes.png",
+        "source": "C:\\Users\\pande\\AndroidStudioProjects\\E-Kids\\app\\src\\main\\res\\drawable\\grapes.png"
+    }
+]
